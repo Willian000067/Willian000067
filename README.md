@@ -38,18 +38,6 @@
 <a href="https://parsefiles.back4app.com/JfsuFmue4himHdBGoB4yMykLyfYDnyBODSYHVGSs/46a74a762e3751bfedc502f1b6975c6a_certificate.png" target="_blank"><img src="https://img.shields.io/badge/-Programação em Dart Orientada a Objeto-%23E4405F?style=for-the-badge&logo=Startto&logoColor=white"</a> 
 <a href="https://parsefiles.back4app.com/JfsuFmue4himHdBGoB4yMykLyfYDnyBODSYHVGSs/cbd1ad712b34fa900470e31b785e0936_certificate.png" target="_blank"><img src="https://img.shields.io/badge/-Flutter Lista de Tarefas-%23E4405F?style=for-the-badge&logo=Startto&logoColor=white"</a>
 
-### Certifications XP Educação / Bootcamps:
-
-<a href="[https://github.com/Willian000067](https://parsefiles.back4app.com/JfsuFmue4himHdBGoB4yMykLyfYDnyBODSYHVGSs/46a74a762e3751bfedc502f1b6975c6a_certificate.png)" target="_blank"><img src="https://img.shields.io/badge/-Engenheiro de Software Agil Web-%230077B5?style=for-the-badge&logo=Startto.dev&logoColor=white" target="_blank">
-</a>   
-<a href="[https://github.com/Willian000067](https://parsefiles.back4app.com/JfsuFmue4himHdBGoB4yMykLyfYDnyBODSYHVGSs/46a74a762e3751bfedc502f1b6975c6a_certificate.png)" target="_blank"><img src="https://img.shields.io/badge/-Desenvolvedor Mobile (Flutter) Web-%230077B5?style=for-the-badge&logo=Startto.dev&logoColor=white" target="_blank">
-</a>
-<a href="[https://github.com/Willian000067](https://parsefiles.back4app.com/JfsuFmue4himHdBGoB4yMykLyfYDnyBODSYHVGSs/46a74a762e3751bfedc502f1b6975c6a_certificate.png)" target="_blank"><img src="https://img.shields.io/badge/-Gerente de Projetos Web-%230077B5?style=for-the-badge&logo=Startto.dev&logoColor=white" target="_blank">
-</a>
-<a href="[https://github.com/Willian000067](https://parsefiles.back4app.com/JfsuFmue4himHdBGoB4yMykLyfYDnyBODSYHVGSs/46a74a762e3751bfedc502f1b6975c6a_certificate.png)" target="_blank"><img src="https://img.shields.io/badge/-Profissional DevOps Web-%230077B5?style=for-the-badge&logo=Startto.dev&logoColor=white" target="_blank">
-</a>
-<a href="[https://github.com/Willian000067](https://parsefiles.back4app.com/JfsuFmue4himHdBGoB4yMykLyfYDnyBODSYHVGSs/46a74a762e3751bfedc502f1b6975c6a_certificate.png)" target="_blank"><img src="https://img.shields.io/badge/-Arquiteto de Software Web-%230077B5?style=for-the-badge&logo=Startto.dev&logoColor=white" target="_blank">
-</a>
   
 </div>
 
